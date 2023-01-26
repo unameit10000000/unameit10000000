@@ -1,9 +1,9 @@
-👽 Hi there!
+👽 Hello and Welcome!
 
-🌍 Currently on the lookout for projects and innovations that supports a healthy & balanced ecosystem.
+🌍 I'm currently on the lookout 🧲 for healthy disruptive projects, idea's & innovations to support our unhealthy & unbalanced ecosystem.
 
-💚 I am always open to connect with people that have a intrinsic motivation to build and innovate.
+💚 Interested in people that have a intrinsic motivation to build and innovate.
+
+💬 Hit me up for questions/collabs. (or just a random chat)
 
 ⚡ Working on some exciting stuff........
-
-💬 feel free to contact me.
