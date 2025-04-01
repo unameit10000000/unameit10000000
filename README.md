@@ -3,7 +3,7 @@ Main game 🕹️
 
 Sidequests 🗺️
 - Working on [wishlist.sh](https://wishlist.sh)
-- Working on [cryptogist.xyz](https://cryptogist.xyz)
+- Working on [bullogist.com](https://bullogist.com)
 
 Experimenting 🧪
 - Playing around with AI, automation & creative tools  
