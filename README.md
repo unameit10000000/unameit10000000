@@ -1,9 +1,5 @@
-Main game 🕹️
-- Building [bitfeed.ai](https://bitfeed.ai)
+=> Playing the main game🕹️
 
-Sidequests 🗺️
-- Working on [wishlist.sh](https://wishlist.sh)
-- Working on [marketbro.xyz](https://marketbro.xyz)
+=> Doing some sidequests🗺️ 
 
-Experimenting 🧪
-- Playing around with AI, automation & creative tools  
+=> Experimenting🧪`'._
