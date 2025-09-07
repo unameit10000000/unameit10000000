@@ -1,5 +1,5 @@
-=> Playing the main game🕹️
+=> Playing🕹️
 
-=> Doing some sidequests🗺️ 
+=> Doing sidequests🗺️ 
 
 => Experimenting🧪`'._
