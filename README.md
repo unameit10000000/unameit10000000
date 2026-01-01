@@ -4,4 +4,4 @@
 
 => Experimenting🧪`'._
 
-=> Building [@bitfeedai]('https://github.com/bitfeedai/website') 🪄✨
+=> Building @[bitfeedai](https://github.com/bitfeedai/website) 🪄✨
