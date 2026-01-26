@@ -1,7 +1,7 @@
-=> Playing🕹️
+=> Juggling Idea's🕹️
 
-=> Sidequests🗺️ 
+=> Doing Sidequests🗺️ 
 
-=> Experimenting🧪`'._
+=> Experimenting with AI🧪`'._
 
-=> Building @[bitfeedai](https://github.com/bitfeedai/website) 🪄✨
+=> While building @[Wnode](https://github.com/getwnode)🪄
