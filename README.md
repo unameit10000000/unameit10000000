@@ -2,6 +2,6 @@
 
 => Doing Sidequests🗺️ 
 
-=> Experimenting with AI🧪`'._
+=> Experimenting with AI👾
 
-=> While building @[Wnode](https://github.com/getwnode)🪄
+=> While building @[Wnode](https://github.com/getwnode)🛰
