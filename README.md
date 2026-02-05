@@ -1,7 +1,3 @@
-=> Juggling Idea's🕹️
+=> Building Wnode @[getwnode.com](https://getwnode.com) 🕹️
 
-=> Doing Sidequests🗺️ 
-
-=> Experimenting with AI👾
-
-=> While building @[Wnode](https://github.com/getwnode)🛰
+=> Building Hire A Human @[hireahuman.ai](https://hireahuman.ai) 🦾
