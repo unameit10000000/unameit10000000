@@ -1,3 +1,3 @@
-=> Building Wnode @[getwnode.com](https://getwnode.com) 🕹️
+=> Building Wnode @ [getwnode.com](https://getwnode.com) 🕹️
 
-=> Building Hire A Human @[hireahuman.ai](https://hireahuman.ai) 🦾
+=> Building Hire A Human @ [hireahuman.ai](https://hireahuman.ai) 🦾
