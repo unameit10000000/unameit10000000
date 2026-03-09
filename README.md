@@ -1,3 +1,5 @@
 => Building Wnode @ [getwnode.com](https://getwnode.com) 🕹️
 
-=> Building Hire A Human @ [hireahuman.ai](https://hireahuman.ai) 🦾
+=> Hire a human @ [hireahuman.ai](https://hireahuman.ai) 🦾
+
+=> Contact me @ [bartolomeo.pro](https://bartolomeo.pro) 👋
